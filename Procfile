@@ -1,2 +1,2 @@
-web: gunicorn django-blog-ak.wsgi
+web: gunicorn codestar.wsgi
  
