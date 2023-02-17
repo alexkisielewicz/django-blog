@@ -30,8 +30,12 @@ body {
 }
 
 .card {
-    border: none;
+    border: 1px solid red;
     background-color: transparent;
+}
+
+.card-img-top {
+    max-width: 350px;
 }
 
 .image-container {
